@@ -3,7 +3,7 @@
 #### MERN Stack Developer
 I'm a Software Engineering Student. Love to Learning Everyday. 
 
-Skills:  REACT / JS / HTML / CSS / NodeJs / ExpressJS / MongoDB/ C / C++ / Java / 
+Skills:  REACT / JS / HTML / CSS / NodeJs / ExpressJS / MongoDB/ MySQL/ C / C++ / Java / Python
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Android 
