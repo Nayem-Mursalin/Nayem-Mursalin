@@ -28,4 +28,3 @@ Software Engineering graduate from SUST, passionate about building software and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-Mursalin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayem-Mursalin&show_icons=true&count_private=true)  
